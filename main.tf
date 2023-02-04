@@ -10,7 +10,7 @@ module "app1" {
   project_name = "Daniel"
   app_name = "dotnetcoresample"
   environment = "production"
-  web_app_name = "webappxx1"
+  web_app_name = "webappsx1"
 }
 
 module "app2" {
@@ -19,7 +19,7 @@ module "app2" {
   project_name = "Daniel"
   app_name = "dotnetcoresample"
   environment = "production"
-  web_app_name = "webappxx2"
+  web_app_name = "webappsx2"
 }
 
 module "app3" {
@@ -28,7 +28,7 @@ module "app3" {
   project_name = "Daniel"
   app_name = "dotnetcoresample"
   environment = "production"
-  web_app_name = "webappxx3"
+  web_app_name = "webappsx3"
 }
 
 module "app4" {
@@ -37,5 +37,5 @@ module "app4" {
   project_name = "Daniel"
   app_name = "dotnetcoresample"
   environment = "production"
-  web_app_name = "webappxx4"
+  web_app_name = "webappsx4"
 }
