@@ -6,7 +6,7 @@ provider "azuredevops" {
 
 module "app1" {
   source = "./module"
-  repository_name = "dotnetapp1>"
+  repository_name = "dotnetapp1"
   project_name = "Daniel"
   app_name = "dotnetcoresample"
   environment = "production"
